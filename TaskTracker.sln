@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTracker", "TaskTracker.csproj", "{CA2AC5E7-4A86-40E1-B1C5-F3664AFC8D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2AC5E7-4A86-40E1-B1C5-F3664AFC8D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2AC5E7-4A86-40E1-B1C5-F3664AFC8D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2AC5E7-4A86-40E1-B1C5-F3664AFC8D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2AC5E7-4A86-40E1-B1C5-F3664AFC8D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {410B0851-8F1F-47F3-8DB1-2F900C546674}
+	EndGlobalSection
+EndGlobal
