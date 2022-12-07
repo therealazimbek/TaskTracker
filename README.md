@@ -63,6 +63,21 @@ This is TaskTracker Web Api using ASP.NET Core Web API. Main feature is to manag
 
 ### Database
 Local PostgreSQL 14 DB was used
+Before starting the application make sure that you change the connection string with your credentials and migrate database:
+1. CLI:
+```bash
+    dotnet ef migrations add migration_name
+```
+```bash
+    dotnet ef database update
+```
+2. Visual Studio:
+```bash
+    Add-Migration migration_name
+```
+```bash
+    Update-Database
+```
 
 
 
